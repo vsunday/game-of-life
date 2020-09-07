@@ -1,0 +1,13 @@
+{
+  "name": "game-of-life",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "shadow-cljs": "2.9.7"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.9.14",
+    "react": "16.13.0",
+    "react-dom": "16.13.0"
+  }
+}
